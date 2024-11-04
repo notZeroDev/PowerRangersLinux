@@ -86,14 +86,14 @@
     cp file1 newfile
     ```
     
-> **output**: file1 copied to newfile
-> 
-- to copy folder you need to add -r.
+    > **output**: file1 copied to newfile
+    > 
+    - to copy folder you need to add -r.
 
-```jsx
-mkdir folder
-cp -r folder newfolder
-```
-
-> **output**: file1 copied to newfile
->
+    ```jsx
+    mkdir folder
+    cp -r folder newfolder
+    ```
+    
+    > **output**: file1 copied to newfile
+    >
