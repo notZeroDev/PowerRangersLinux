@@ -1,23 +1,46 @@
 # LINUX Commands
 - whoami
     - this command is used to print the user name of the currently logged in to the terminal.
-      `whoami`
+    
+    ```jsx
+    whoami 
+    ```
+    
 - man
     - this command will help you to understand the other commands just **man<command>**
-      `man`
+    
+    ```jsx
+    man
+    ```
+    
 - clear
     - this command is used to clear all the previous commands.
-      `clear`
+    
+    ```jsx
+    clear
+    ```
+    
 - pwd
     - print working directory is used to print the current folder path.
-      `pwd`
+    
+    ```jsx
+    pwd
+    ```
+    
 - ls
     - this command is used to list all the files that the folder contains.
-      `ls`
+    
+    ```jsx
+    ls
+    ```
+    
 - cd
     - change directory is used to move into a specific folder.
-      `cd`
-      `cd .. //to move back`
+    
+    ```jsx
+    cd
+    cd ..  //to move back
+    ```
 - mkdir
     - this command is used to create a folder.
     
